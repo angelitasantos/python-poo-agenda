@@ -1,0 +1,2 @@
+CONTATO 1;contato1@email.com;+55 99 99999-9999;CIDADE 1;UF
+CONTATO 2;contato2@email.com;+55 88 88888-8888;CIDADE 2;UF
