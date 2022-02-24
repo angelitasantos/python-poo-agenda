@@ -3,7 +3,7 @@
 
 ## Agenda de contatos
 
-#### Utilização dos conceitos aprendidos:
+#### Utilização dos conceitos:
  - classe
  - objetos
  - atributos
