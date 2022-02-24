@@ -1,12 +1,10 @@
-## Agenda de contatos criada com Python
+## Programa Desenvolve 40+ Magalu / Let's Code
+### Python: Programação Orientada a Objetos (revisão de conteúdo)
 
-- curso: Desenvolva 40+ Magalu / Let's Code
-- módulo: Programação orientada a objetos
- 
+## Agenda de contatos
+
 #### Utilização dos conceitos aprendidos:
  - classe
  - objetos
  - atributos
  - métodos
-
-
