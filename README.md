@@ -8,3 +8,5 @@
  - objetos
  - atributos
  - métodos
+
+![imagem_ilustrativa](python-agenda-poo.png)
